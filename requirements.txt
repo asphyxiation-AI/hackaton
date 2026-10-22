@@ -6,3 +6,6 @@ python-docx
 pydantic
 python-dotenv
 jinja2
+feedparser
+requests
+beautifulsoup4
